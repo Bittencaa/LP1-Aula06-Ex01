@@ -6,5 +6,8 @@ public class Principal {
         c.imprimirLista();
         c.mediaAlunos();
         c.aprovacao();
+        c.dataNasc();
+        c.exibirDatas();
+        c.buscarDatas();
     }
 }
